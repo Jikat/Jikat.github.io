@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Campaign Wiki</title>
+    <link>https://Jikat.github.io/docs/</link>
+    <description>Recent content in Docs on Campaign Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Jikat 2024</copyright>
+    <lastBuildDate>Tue, 27 Feb 2024 09:30:56 +0100</lastBuildDate>
+    <atom:link href="https://Jikat.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>https://Jikat.github.io/docs/resources/</link>
+      <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
+      <guid>https://Jikat.github.io/docs/resources/</guid>
+      <description>Link to valuable, relevant resources.</description>
+    </item>
+  </channel>
+</rss>
